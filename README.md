@@ -4,7 +4,7 @@ In this project, we analyzed Kaggle housing data in Excel to identify pricing fa
 
 # House Pricing
 
-*What affects the price of a house?*
+What affects the price of a house?
 
 ## Table of contents
 
